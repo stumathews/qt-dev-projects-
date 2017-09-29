@@ -1,0 +1,3 @@
+/home/stuart/Projects/Qt/Basic/build/CMakeFiles/textEditor.dir
+/home/stuart/Projects/Qt/Basic/build/CMakeFiles/textEditor_automoc.dir
+/home/stuart/Projects/Qt/Basic/build/CMakeFiles/uninstall.dir
